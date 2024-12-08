@@ -1,0 +1,66 @@
+# Fichiers générés par les IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Fichiers du système d'exploitation
+.DS_Store
+Thumbs.db
+
+# Fichiers générés par Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Fichiers générés par Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Logs
+*.log
+
+# Fichiers temporaires
+*.swp
+*.swo
+*.tmp
+
+# Paramètres locaux et caches
+*.class
+*.war
+*.ear
+*.jar
+
+# Fichiers de configuration
+.env
+*.properties
+*.yml
+*.yaml
+
+# Configuration des tests
+test-output/
+surefire-reports/
+
+# Fichiers de l'IDE Eclipse
+.project
+.classpath
+.settings/
+
+# Fichiers générés par NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Fichiers générés par IntelliJ IDEA
+out/
+
+# Bibliothèques locales
+lib/
